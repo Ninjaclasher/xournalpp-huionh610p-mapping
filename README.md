@@ -30,4 +30,4 @@ $ xsetwacom set "<tablet pad>" Button 11 "key F7"
 $ xsetwacom set "<tablet pad>" Button 12 "key F8"
 ```
 
-Follow Xournal++'s instructions on installing a plugin [here](https://xournalpp.github.io/guide/plugins/). In particular, copy `HuionH610ProMappings` into the [plugin folder](https://xournalpp.github.io/guide/plugins/#installation-folder).
+Follow Xournal++'s instructions on installing a plugin [here](https://xournalpp.github.io/guide/plugins/plugins/). In particular, copy `HuionH610ProMappings` into the [plugin folder](https://xournalpp.github.io/guide/plugins/plugins/#installation-folder).
